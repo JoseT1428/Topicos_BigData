@@ -1,4 +1,4 @@
-print("Fundamentos DE pyhon")
+print("Fundamentos de pyhon")
 # comentario 1 Linea
 
 """
@@ -10,6 +10,7 @@ print("Fundamentos DE pyhon")
 a=25
 print(type(a))
 
+#Decimal
 b=14.567
 print(type(b))
 

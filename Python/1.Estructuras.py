@@ -26,14 +26,14 @@ else:
 #Condicional Multiple
 
 """
-Python 3.9.0 a versiones anteriores no existe 
+Python 3.9.0 a versiones anteriores no existe
 """
 num = 4 
 match num:
     case 1: print("Vocal A")
-    case 2: print("Vocal A")
-    case 3: print("Vocal A")
-    case 4: print("Vocal A")
-    case 5: print("Vocal A")
-    case 6: print("Vocal A")
+    case 2: print("Vocal B")
+    case 3: print("Vocal C")
+    case 4: print("Vocal D")
+    case 5: print("Vocal E")
+    case 6: print("Vocal F")
     case _: print("NUmero no corresponde a vocal")
