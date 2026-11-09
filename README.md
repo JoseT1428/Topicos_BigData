@@ -23,4 +23,5 @@
 #####
 
 © 2026 Jose Agustin Trujillo Bazan
-Este Trabajo esta Bajo Licencia  [Creative Commons Attribution 4.0 International](LICENSE)
+
+-Este Trabajo esta Bajo Licencia  [Creative Commons Attribution 4.0 International](LICENSE)
