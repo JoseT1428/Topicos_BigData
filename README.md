@@ -8,11 +8,14 @@
 6. Hadoop (Almacenamiento Distribuido)
 7. Hive (SQL)
 8. Spark
-9. Pyspark (Lenguage Spark + Python)
-10. Databricks (Procesamiento en la nube)
-11. Jenkins ( CI/CD)
-12. Aparche Airflow(Orquestacion)
-13. SSH (Conexion  Remota)
+10. MongoDB (Base de Datos no relacional)
+    -MongoDB Local
+    -Mongo Atlas (Online)
+11. Pyspark (Lenguage Spark + Python)
+12. Databricks (Procesamiento en la nube)
+13. Jenkins ( CI/CD)
+14. Apache Airflow(Orquestacion)
+15. SSH (Conexion  Remota)
 
 ## Metodologias
 - Arquitectura Medallon (ETL Avanzado)-->Lakehouse
