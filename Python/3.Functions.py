@@ -1,7 +1,11 @@
 print("Funciones")
 
 """
-def 
+def -> Funcion
+sumar -> Nombre funcion
+(a, b) --> Parametros
+:
+... 
 """
 
 def sumar(a,b):
